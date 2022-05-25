@@ -1,6 +1,6 @@
 {
-	"author": "Axel Montiel",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Axel Montiel",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
